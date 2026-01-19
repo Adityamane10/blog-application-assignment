@@ -1,0 +1,62 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "The financial technology sector is experiencing unprecedented transformation. Artificial Intelligence and blockchain technology are at the forefront of this revolution, fundamentally changing how we interact with money and financial services. From automated trading systems to decentralized finance platforms, these technologies are democratizing access to financial tools that were once exclusive to large institutions. Machine learning algorithms now power fraud detection systems, credit scoring models, and personalized financial advice platforms. Meanwhile, blockchain technology enables transparent, secure, and instant cross-border transactions without traditional intermediaries. As we look ahead, the convergence of these technologies promises even more innovative solutions, including smart contracts that automatically execute financial agreements and AI-driven investment strategies that adapt to market conditions in real-time."
+    },
+    {
+      "id": 2,
+      "title": "The Rise of Remote Work",
+      "category": [
+        "BUSINESS",
+        "LIFESTYLE"
+      ],
+      "description": "How remote work is transforming the modern workplace",
+      "date": "2026-01-10T14:30:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/4226140/pexels-photo-4226140.jpeg",
+      "content": "Remote work has evolved from a temporary solution to a permanent fixture in the modern workplace. Companies worldwide are embracing flexible work arrangements, recognizing the benefits of increased productivity, reduced overhead costs, and access to global talent pools. This shift has sparked innovations in collaboration tools, project management software, and virtual communication platforms. However, it also presents challenges in maintaining company culture, ensuring work-life balance, and managing distributed teams effectively. Organizations are now investing in digital infrastructure and developing new management strategies to support their remote workforce. The future of work is hybrid, combining the best of both remote and in-office experiences to create more adaptable and resilient organizations."
+    },
+    {
+      "id": 3,
+      "title": "Sustainable Living in 2026",
+      "category": [
+        "ENVIRONMENT",
+        "LIFESTYLE"
+      ],
+      "description": "Practical tips for reducing your carbon footprint",
+      "date": "2026-01-09T08:15:30.000Z",
+      "coverImage": "https://images.pexels.com/photos/1072179/pexels-photo-1072179.jpeg",
+      "content": "Sustainability is no longer just a buzzword but a necessity for our planet's future. In 2026, individuals and communities are taking concrete steps to reduce their environmental impact. From adopting renewable energy sources to embracing circular economy principles, sustainable living has become more accessible and practical. Simple changes like reducing single-use plastics, composting organic waste, and choosing locally sourced products can make a significant difference. Urban gardens and community-supported agriculture programs are flourishing, reconnecting people with their food sources. Energy-efficient homes equipped with smart technology help minimize waste and reduce utility costs. Transportation choices are shifting towards electric vehicles and public transit. By making conscious decisions in our daily lives, we can collectively work towards a more sustainable future for generations to come."
+    },
+    {
+      "title": "a",
+      "category": [
+        "A"
+      ],
+      "description": "a",
+      "coverImage": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNubLmqdOK9pZWU-2IiD20cuSIdUUDi9-NvQ&s",
+      "content": "a",
+      "date": "2026-01-19T05:03:53.058Z",
+      "id": 4
+    },
+    {
+      "title": "sample for assignment",
+      "category": [
+        "SAMPLE IMAGE"
+      ],
+      "description": "sample",
+      "coverImage": "https://media.istockphoto.com/id/814423752/photo/eye-of-model-with-colorful-art-make-up-close-up.jpg?s=612x612&w=0&k=20&c=l15OdMWjgCKycMMShP8UK94ELVlEGvt7GmB_esHWPYE=",
+      "content": "a",
+      "date": "2026-01-19T05:04:59.998Z",
+      "id": 5
+    }
+  ]
+}
